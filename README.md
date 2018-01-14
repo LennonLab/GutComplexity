@@ -6,4 +6,4 @@ This repository contains code, data & text files for the Gut Complexity project.
 
 [Dr. Ken Locey](http://kenlocey.weecology.org/): Postdoctoral Fellow in the Lennon Lab, Indiana University, Bloomington.
 
-[Emmi Mueller](http://eamuelle.github.io/): Ph.D. student in the Lennon Lab, Indiana University, Bloomington.
+[Emmi Mueller](http://github.com/eamuelle): Ph.D. student in the Lennon Lab, Indiana University, Bloomington.
