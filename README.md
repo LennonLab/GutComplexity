@@ -1,6 +1,9 @@
 # GutComplexity
-===========
-This repository contains open-source code, data & text files for the Gut Complexity project
+This repository contains code, data & text files for the Gut Complexity project.
 
-##Project Goals
-* **Aim 1)**
+## Contributors
+[Dr. Jay Lennon](http://www.indiana.edu/~microbes/people.php): Principle Investigator, Associate Professor, Department of Biology, Indiana University, Bloomington. Head of the [Lennon Lab](http://www.indiana.edu/~microbes/people.php).
+
+[Dr. Ken Locey](http://kenlocey.weecology.org/): Postdoctoral Fellow in the Lennon Lab, Indiana University, Bloomington.
+
+[Emmi Mueller](http://eamuelle.github.io/): Ph.D. student in the Lennon Lab, Indiana University, Bloomington.
